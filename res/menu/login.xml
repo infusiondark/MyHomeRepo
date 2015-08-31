@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/slid_item1"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    
+    <item2
+        android:id="@+id/slid_item2"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item3
+        android:id="@+id/slid_item3"
+        android:orderInCategory="300"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item4
+        android:id="@+id/slid_item4"
+        android:orderInCategory="400"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
